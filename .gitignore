@@ -1,0 +1,24 @@
+# Python generated files
+*.pyc
+__pychace__/
+*.pyo
+*.pyd
+
+#Django
+*.log
+local_settings.py
+# keeping in the django sqlite db for development
+# db.sqlite3
+media/*
+
+# Environments
+.env
+env/
+venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Static Files
+staticfiles/
